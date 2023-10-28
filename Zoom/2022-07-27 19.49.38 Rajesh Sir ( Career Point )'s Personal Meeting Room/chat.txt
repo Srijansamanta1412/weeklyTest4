@@ -1,0 +1,1 @@
+19:50:12	 From  Rajesh Sir ( Career Point ) : python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
